@@ -84,7 +84,7 @@ const BaseFeeInput = () => {
     maxPriorityFeePerGas,
     setErrorValue,
     setMaxFeePerGas,
-    setMaxBaseFee,
+    setBaseFeeMultiplier,
   } = useAdvancedGasFeePopoverContext();
 
   const { estimatedBaseFee, historicalBaseFeeRange } = gasFeeEstimates;
@@ -98,7 +98,6 @@ const BaseFeeInput = () => {
   } = useUserPreferencedCurrency(SECONDARY);
 
   const advancedGasFeeValues = useSelector(getAdvancedGasFeeValues);
-  const isAdvancedGasFeeDefault = useSelector(getIsAdvancedGasFeeDefault);
 
   const [editingInGwei, setEditingInGwei] = useState(false);
 
@@ -173,7 +172,7 @@ const BaseFeeInput = () => {
       error === 'editGasMaxBaseFeeGWEIImbalance' ||
         error === 'editGasMaxBaseFeeMultiplierImbalance',
     );
-    setMaxBaseFee(maxBaseFeeMultiplier);
+    setBaseFeeMultiplier(maxBaseFeeMultiplier);
   }, [
     editingInGwei,
     gasFeeEstimates,
@@ -183,7 +182,7 @@ const BaseFeeInput = () => {
     setBaseFeeError,
     setErrorValue,
     setMaxFeePerGas,
-    setMaxBaseFee,
+    setBaseFeeMultiplier,
   ]);
 
   return (
