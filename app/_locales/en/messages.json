@@ -1050,6 +1050,9 @@
   "etherscanViewOn": {
     "message": "View on Etherscan"
   },
+  "expandExperience": {
+    "message": "Expand your web3 experience"
+  },
   "expandView": {
     "message": "Expand view"
   },
@@ -1601,6 +1604,9 @@
     "message": "Make sure no one is watching your screen",
     "description": "Warning to users to be care while creating and saving their new Secret Recovery Phrase"
   },
+  "manageSnaps": {
+    "message": "Manage your installed Snaps"
+  },
   "max": {
     "message": "Max"
   },
@@ -1880,6 +1886,9 @@
   },
   "noNFTs": {
     "message": "No NFTs yet"
+  },
+  "noSnaps": {
+    "message": "No Snaps installed"
   },
   "noThanks": {
     "message": "No Thanks"
@@ -2300,6 +2309,12 @@
   },
   "removeNFT": {
     "message": "Remove NFT"
+  },
+  "removeSnap": {
+    "message": "Remove Snap"
+  },
+  "removeSnapDescription": {
+    "message": "This action will delete the snap, its data and revoke your given permissions."
   },
   "requestsAwaitingAcknowledgement": {
     "message": "requests waiting to be acknowledged"
