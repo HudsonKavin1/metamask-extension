@@ -2638,6 +2638,9 @@
   "snaps": {
     "message": "Snaps"
   },
+  "snapsSettingsDescription": {
+    "message": "Manage your Snaps"
+  },
   "somethingWentWrong": {
     "message": "Oops! Something went wrong."
   },
