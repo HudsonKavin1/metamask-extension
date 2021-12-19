@@ -2635,6 +2635,9 @@
   "slow": {
     "message": "Slow"
   },
+  "snaps": {
+    "message": "Snaps"
+  },
   "somethingWentWrong": {
     "message": "Oops! Something went wrong."
   },
