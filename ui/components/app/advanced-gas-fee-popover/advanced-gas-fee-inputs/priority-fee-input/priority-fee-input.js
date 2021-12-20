@@ -46,10 +46,7 @@ const PriorityFeeInput = () => {
     setErrorValue,
     setMaxPriorityFeePerGas,
   } = useAdvancedGasFeePopoverContext();
-  const {
-    gasFeeEstimates,
-    maxPriorityFeePerGas,
-  } = useGasFeeContext();
+  const { gasFeeEstimates, maxPriorityFeePerGas } = useGasFeeContext();
   const {
     latestPriorityFeeRange,
     historicalPriorityFeeRange,
