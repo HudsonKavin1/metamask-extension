@@ -2648,6 +2648,9 @@
   "snapsStatus": {
     "message": "Snap status is dependent on activity."
   },
+  "snapsToggle": {
+    "message": "A snap will only run if it is enabled"
+  },
   "somethingWentWrong": {
     "message": "Oops! Something went wrong."
   },
