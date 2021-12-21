@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Odbaci"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Skeniraj kôd QR"
+  },
   "about": {
     "message": "O opcijama"
   },
@@ -247,6 +253,9 @@
   },
   "currentLanguage": {
     "message": "Trenutačni jezik"
+  },
+  "custom": {
+    "message": "Napredno"
   },
   "customGas": {
     "message": "Prilagodi gorivo"
@@ -516,6 +525,9 @@
     "message": "Testna mreža Kovan"
   },
   "learnMore": {
+    "message": "Saznajte više"
+  },
+  "learnMoreUpperCase": {
     "message": "Saznajte više"
   },
   "ledgerAccountRestriction": {

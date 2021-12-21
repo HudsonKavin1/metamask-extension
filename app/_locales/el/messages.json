@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Απόρριψη"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Σάρωση Κωδικού QR"
+  },
   "about": {
     "message": "Σχετικά με"
   },
@@ -244,6 +250,9 @@
   },
   "currentLanguage": {
     "message": "Τρέχουσα Γλώσσα"
+  },
+  "custom": {
+    "message": "Σύνθετες"
   },
   "customGas": {
     "message": "Προσαρμογή Gas"
@@ -517,6 +526,9 @@
     "message": "Δίκτυο Δοκιμής Kovan"
   },
   "learnMore": {
+    "message": "Μάθε περισσότερα"
+  },
+  "learnMoreUpperCase": {
     "message": "Μάθε περισσότερα"
   },
   "ledgerAccountRestriction": {

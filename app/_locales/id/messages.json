@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Tolak"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Pindai Kode QR"
+  },
   "about": {
     "message": "Tentang"
   },
@@ -458,6 +464,9 @@
   "currentLanguage": {
     "message": "Bahasa Saat Ini"
   },
+  "custom": {
+    "message": "Tingkat Lanjut"
+  },
   "customGas": {
     "message": "Sesuaikan Biaya Jaringan"
   },
@@ -511,9 +520,6 @@
   "deleteNetworkDescription": {
     "message": "Anda yakin ingin menghapus jaringan ini?"
   },
-  "depositEther": {
-    "message": "Deposit Ether"
-  },
   "details": {
     "message": "Detail"
   },
@@ -547,9 +553,6 @@
   "dismissReminderField": {
     "message": "Lewatkan pengingat pencadangan frasa pemulihan"
   },
-  "domain": {
-    "message": "Domain"
-  },
   "done": {
     "message": "Selesai"
   },
@@ -568,14 +571,8 @@
   "dropped": {
     "message": "Terputus"
   },
-  "edit": {
-    "message": "Edit"
-  },
   "editContact": {
     "message": "Edit Kontak"
-  },
-  "editNonceField": {
-    "message": "Edit Nonce"
   },
   "editNonceMessage": {
     "message": "Ini adalah fitur lanjutan, gunakan dengan hati-hati."
@@ -688,9 +685,6 @@
   "ethereumPublicAddress": {
     "message": "Alamat Publik Ethereum"
   },
-  "etherscan": {
-    "message": "Etherscan"
-  },
   "etherscanView": {
     "message": "Lihat akun di Etherscan"
   },
@@ -724,10 +718,6 @@
   },
   "feeAssociatedRequest": {
     "message": "Biaya dikaitkan dengan permintaan ini."
-  },
-  "fiat": {
-    "message": "Fiat",
-    "description": "Exchange type"
   },
   "fileImportFail": {
     "message": "Impor file tidak bekerja? Klik di sini!",
@@ -985,6 +975,9 @@
   "learnMore": {
     "message": "Pelajari selengkapnya"
   },
+  "learnMoreUpperCase": {
+    "message": "Pelajari selengkapnya"
+  },
   "ledgerAccountRestriction": {
     "message": "Anda perlu memanfaatkan akun terakhir Anda sebelum menambahkan yang baru."
   },
@@ -1015,26 +1008,17 @@
   "loadingTokens": {
     "message": "Memuat Token..."
   },
-  "localhost": {
-    "message": "Localhost 8545"
-  },
   "lock": {
     "message": "Kunci"
   },
   "lockTimeTooGreat": {
     "message": "Lock time terlalu besar"
   },
-  "mainnet": {
-    "message": "Ethereum Mainnet"
-  },
   "makeAnotherSwap": {
     "message": "Buat penukaran baru"
   },
   "max": {
     "message": "Maks."
-  },
-  "memo": {
-    "message": "memo"
   },
   "memorizePhrase": {
     "message": "Ingat frasa ini."
@@ -1131,17 +1115,8 @@
   "networkName": {
     "message": "Nama Jaringan"
   },
-  "networkNameBSC": {
-    "message": "BSC"
-  },
   "networkNameDefinition": {
     "message": "Nama dikaitkan dengan jaringan ini."
-  },
-  "networkNameEthereum": {
-    "message": "Ethereum"
-  },
-  "networkNameTestnet": {
-    "message": "Testnet"
   },
   "networkSettingsChainIdDescription": {
     "message": "ID rantai digunakan untuk menandatangani transaksi. Harus cocok dengan ID rantai yang dikembalikan oleh jaringan. Anda dapat memasukkan bilangan heksadesimal berawalan '0x' atau desimal, namun kami akan menampilkan bilangan tersebut dalam desimal."
@@ -1220,9 +1195,6 @@
   "noWebcamFoundTitle": {
     "message": "Webcam tidak ditemukan"
   },
-  "nonce": {
-    "message": "Nonce"
-  },
   "nonceField": {
     "message": "Sesuaikan nonce transaksi"
   },
@@ -1293,17 +1265,11 @@
   "ofTextNofM": {
     "message": "dari"
   },
-  "off": {
-    "message": "Off"
-  },
   "offlineForMaintenance": {
     "message": "Offline untuk pemeliharaan"
   },
   "ok": {
     "message": "Oke"
-  },
-  "on": {
-    "message": "On"
   },
   "onboardingReturnNotice": {
     "message": "\"$1\" akan menutup tab ini dan mengarahkan kembali ke $2",
@@ -2025,9 +1991,6 @@
     "message": "$1 $2 tersedia untuk ditukar",
     "description": "Tells the user how much of a token they have in their balance. $1 is a decimal number amount of tokens, and $2 is a token symbol"
   },
-  "swapZeroSlippage": {
-    "message": "0% Slippage"
-  },
   "swapsAdvancedOptions": {
     "message": "Opsi Tingkat Lanjut"
   },
@@ -2120,9 +2083,6 @@
     "message": "Untuk: $1",
     "description": "$1 is the address to include in the To label. It is typically shortened first using shortenAddress"
   },
-  "token": {
-    "message": "Token"
-  },
   "tokenAlreadyAdded": {
     "message": "Token telah ditambahkan."
   },
@@ -2137,9 +2097,6 @@
   },
   "tooltipApproveButton": {
     "message": "Saya paham"
-  },
-  "total": {
-    "message": "Total"
   },
   "transaction": {
     "message": "transaksi"
@@ -2179,9 +2136,6 @@
   },
   "transactionUpdated": {
     "message": "Transaksi diperbarui pada $2."
-  },
-  "transfer": {
-    "message": "Transfer"
   },
   "transferBetweenAccounts": {
     "message": "Transfer antar akun saya"

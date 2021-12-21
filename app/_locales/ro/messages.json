@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Respingeți"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Scanați codul QR"
+  },
   "about": {
     "message": "Despre"
   },
@@ -247,6 +253,9 @@
   },
   "currentLanguage": {
     "message": "Limba actuală"
+  },
+  "custom": {
+    "message": "Avansate"
   },
   "customGas": {
     "message": "Particularizați Gas"
@@ -510,6 +519,9 @@
     "message": "Rețea de test Kovan"
   },
   "learnMore": {
+    "message": "Aflați mai multe"
+  },
+  "learnMoreUpperCase": {
     "message": "Aflați mai multe"
   },
   "ledgerAccountRestriction": {

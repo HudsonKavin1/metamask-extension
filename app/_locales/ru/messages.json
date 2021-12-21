@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Отклонить"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Сканировать QR-код"
+  },
   "about": {
     "message": "Общие сведения"
   },
@@ -458,6 +464,9 @@
   "currentLanguage": {
     "message": "Текущий язык"
   },
+  "custom": {
+    "message": "Дополнительно"
+  },
   "customGas": {
     "message": "Настроить топливо"
   },
@@ -687,9 +696,6 @@
   },
   "ethereumPublicAddress": {
     "message": "Публичный адрес Ethereum"
-  },
-  "etherscan": {
-    "message": "Etherscan"
   },
   "etherscanView": {
     "message": "Посмотреть счет на Etherscan"
@@ -985,6 +991,9 @@
   "learnMore": {
     "message": "Дополнительная информация"
   },
+  "learnMoreUpperCase": {
+    "message": "Дополнительная информация"
+  },
   "ledgerAccountRestriction": {
     "message": "Вам необходимо использовать свой последний счет, прежде чем вы сможете добавить новый."
   },
@@ -1131,14 +1140,8 @@
   "networkName": {
     "message": "Имя сети"
   },
-  "networkNameBSC": {
-    "message": "BSC"
-  },
   "networkNameDefinition": {
     "message": "Имя, связанное с этой сетью."
-  },
-  "networkNameEthereum": {
-    "message": "Ethereum"
   },
   "networkNameTestnet": {
     "message": "Тестовая сеть"

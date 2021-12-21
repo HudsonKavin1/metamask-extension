@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Rejeter"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Scannez le QR Code"
+  },
   "about": {
     "message": "À propos"
   },
@@ -26,6 +32,9 @@
   "accountSelectionRequired": {
     "message": "Vous devez selectionner un compte !"
   },
+  "activity": {
+    "message": "Activité"
+  },
   "activityLog": {
     "message": "Log d'activité"
   },
@@ -34,6 +43,9 @@
   },
   "addAlias": {
     "message": "Ajouter un alias"
+  },
+  "addContact": {
+    "message": "Ajouter un contact"
   },
   "addNetwork": {
     "message": "Ajouter un réseau"
@@ -52,6 +64,9 @@
   },
   "advanced": {
     "message": "Paramètres avancés"
+  },
+  "advancedGasPriceTitle": {
+    "message": "Prix du gaz"
   },
   "advancedOptions": {
     "message": "Options avancées"
@@ -238,6 +253,9 @@
   },
   "currentLanguage": {
     "message": "Langue actuelle"
+  },
+  "custom": {
+    "message": "Paramètres avancés"
   },
   "customGas": {
     "message": "Personnaliser le gaz"
@@ -497,9 +515,6 @@
   "invalidSeedPhrase": {
     "message": "Phrase Seed invalide"
   },
-  "ipfsGateway": {
-    "message": "IPFS Gateway"
-  },
   "ipfsGatewayDescription": {
     "message": "Entrez l'URL de la gateway CID IPFS à utiliser pour résoudre les contenus ENS."
   },
@@ -514,6 +529,9 @@
     "message": "Réseau de test Kovan"
   },
   "learnMore": {
+    "message": "En savoir plus"
+  },
+  "learnMoreUpperCase": {
     "message": "En savoir plus"
   },
   "ledgerAccountRestriction": {
@@ -918,6 +936,9 @@
   },
   "supportCenter": {
     "message": "Visitez notre centre d'aide"
+  },
+  "swapsAdvancedOptions": {
+    "message": "Options avancées"
   },
   "switchNetworks": {
     "message": "Changer de réseau"

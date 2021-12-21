@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Từ chối"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Quét mã QR"
+  },
   "about": {
     "message": "Giới thiệu"
   },
@@ -458,6 +464,9 @@
   "currentLanguage": {
     "message": "Ngôn ngữ hiện tại"
   },
+  "custom": {
+    "message": "Nâng cao"
+  },
   "customGas": {
     "message": "Tùy chỉnh gas"
   },
@@ -687,9 +696,6 @@
   },
   "ethereumPublicAddress": {
     "message": "Địa chỉ công khai trên Ethereum"
-  },
-  "etherscan": {
-    "message": "Etherscan"
   },
   "etherscanView": {
     "message": "Xem tài khoản trên Etherscan"
@@ -985,6 +991,9 @@
   "learnMore": {
     "message": "Tìm hiểu thêm"
   },
+  "learnMoreUpperCase": {
+    "message": "Tìm hiểu thêm"
+  },
   "ledgerAccountRestriction": {
     "message": "Bạn cần sử dụng tài khoản gần đây nhất thì mới có thể thêm một tài khoản mới."
   },
@@ -1131,14 +1140,8 @@
   "networkName": {
     "message": "Tên mạng"
   },
-  "networkNameBSC": {
-    "message": "BSC"
-  },
   "networkNameDefinition": {
     "message": "Tên liên kết với mạng này."
-  },
-  "networkNameEthereum": {
-    "message": "Ethereum"
   },
   "networkNameTestnet": {
     "message": "Mạng thử nghiệm"
@@ -1298,9 +1301,6 @@
   },
   "offlineForMaintenance": {
     "message": "Ngoại tuyến để bảo trì"
-  },
-  "ok": {
-    "message": "Ok"
   },
   "on": {
     "message": "Bật"
@@ -2119,9 +2119,6 @@
   "toAddress": {
     "message": "Đến: $1",
     "description": "$1 is the address to include in the To label. It is typically shortened first using shortenAddress"
-  },
-  "token": {
-    "message": "Token"
   },
   "tokenAlreadyAdded": {
     "message": "Đã thêm token."

@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Kataa"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Kagua Msimbo wa QR"
+  },
   "about": {
     "message": "Kuhusu"
   },
@@ -241,6 +247,9 @@
   },
   "currentLanguage": {
     "message": "Lugha ya Sasa"
+  },
+  "custom": {
+    "message": "Mipangilio ya kina"
   },
   "customGas": {
     "message": "Weka Mipangilio ya Gesi Upendavyo"
@@ -507,6 +516,9 @@
     "message": "Mtandao wa Majaribio wa Kovan"
   },
   "learnMore": {
+    "message": "Jifunze zaidi"
+  },
+  "learnMoreUpperCase": {
     "message": "Jifunze zaidi"
   },
   "ledgerAccountRestriction": {

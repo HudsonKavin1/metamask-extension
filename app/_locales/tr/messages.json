@@ -1,4 +1,7 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Reddet"
+  },
   "account": {
     "message": "Hesap"
   },
@@ -210,6 +213,9 @@
     "message": "Kovan Test Ağı"
   },
   "learnMore": {
+    "message": "Daha fazla bilgi."
+  },
+  "learnMoreUpperCase": {
     "message": "Daha fazla bilgi."
   },
   "likeToImportTokens": {

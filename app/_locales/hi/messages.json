@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "अस्वीकार करें"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "QR कोड स्कैन करें"
+  },
   "about": {
     "message": "इसके बारे में"
   },
@@ -458,6 +464,9 @@
   "currentLanguage": {
     "message": "वर्तमान भाषा"
   },
+  "custom": {
+    "message": "उन्नत"
+  },
   "customGas": {
     "message": "गैस अनुकूलित करें"
   },
@@ -687,9 +696,6 @@
   },
   "ethereumPublicAddress": {
     "message": "Ethereum सार्वजनिक पता"
-  },
-  "etherscan": {
-    "message": "Etherscan"
   },
   "etherscanView": {
     "message": "Etherscan पर खाता देखें"
@@ -985,6 +991,9 @@
   "learnMore": {
     "message": "अधिक जानें"
   },
+  "learnMoreUpperCase": {
+    "message": "अधिक जानें"
+  },
   "ledgerAccountRestriction": {
     "message": "नया खाता जोड़ने से पहले आपको अपने अंतिम खाते का उपयोग करना होगा।"
   },
@@ -1023,9 +1032,6 @@
   },
   "lockTimeTooGreat": {
     "message": "लॉक समय बहुत अधिक है"
-  },
-  "mainnet": {
-    "message": "Ethereum Mainnet"
   },
   "makeAnotherSwap": {
     "message": "एक नया स्वैप बनाएँ"
@@ -1131,17 +1137,8 @@
   "networkName": {
     "message": "नेटवर्क का नाम"
   },
-  "networkNameBSC": {
-    "message": "BSC"
-  },
   "networkNameDefinition": {
     "message": "नाम इस नेटवर्क के साथ संबद्ध है।"
-  },
-  "networkNameEthereum": {
-    "message": "Ethereum"
-  },
-  "networkNameTestnet": {
-    "message": "Testnet"
   },
   "networkSettingsChainIdDescription": {
     "message": "चेन ID का उपयोग लेनदेन पर हस्ताक्षर करने के लिए किया जाता है। इसे नेटवर्क द्वारा दी गई चेन ID से मेल खाना चाहिए। आप दशमलव या '0x'-उपसर्ग वाली हेक्साडेसिमल संख्या दर्ज कर सकते हैं, लेकिन हम संख्या को दशमलव में प्रदर्शित करेंगे।"

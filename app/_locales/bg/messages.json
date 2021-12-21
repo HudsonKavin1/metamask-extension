@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Отхвърляне"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Сканиране на QR код"
+  },
   "about": {
     "message": "Информация"
   },
@@ -247,6 +253,9 @@
   },
   "currentLanguage": {
     "message": "Настоящ език"
+  },
+  "custom": {
+    "message": "Разширени"
   },
   "customGas": {
     "message": "Персонализирайте газ"
@@ -516,6 +525,9 @@
     "message": "Тестова мрежа на Кован"
   },
   "learnMore": {
+    "message": "Научете повече"
+  },
+  "learnMoreUpperCase": {
     "message": "Научете повече"
   },
   "ledgerAccountRestriction": {

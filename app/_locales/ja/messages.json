@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "拒否"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "QR コードのスキャン"
+  },
   "about": {
     "message": "バージョン情報"
   },
@@ -458,6 +464,9 @@
   "currentLanguage": {
     "message": "現在の言語"
   },
+  "custom": {
+    "message": "詳細"
+  },
   "customGas": {
     "message": "ガスのカスタマイズ"
   },
@@ -687,9 +696,6 @@
   },
   "ethereumPublicAddress": {
     "message": "パブリック イーサリアム アドレス"
-  },
-  "etherscan": {
-    "message": "Etherscan"
   },
   "etherscanView": {
     "message": "Etherscan でアカウントを表示"
@@ -985,6 +991,9 @@
   "learnMore": {
     "message": "詳細を表示"
   },
+  "learnMoreUpperCase": {
+    "message": "詳細を表示"
+  },
   "ledgerAccountRestriction": {
     "message": "新しいアカウントを追加するには、その前に最後のアカウントを使用する必要があります。"
   },
@@ -1014,9 +1023,6 @@
   },
   "loadingTokens": {
     "message": "トークンをロードしています..."
-  },
-  "localhost": {
-    "message": "Localhost 8545"
   },
   "lock": {
     "message": "ロック"
@@ -1130,9 +1136,6 @@
   },
   "networkName": {
     "message": "ネットワーク名"
-  },
-  "networkNameBSC": {
-    "message": "BSC"
   },
   "networkNameDefinition": {
     "message": "このネットワークに関連付けられている名前。"

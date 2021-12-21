@@ -1,4 +1,10 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "Annulla"
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "Scansiona Codice QR"
+  },
   "about": {
     "message": "Informazioni"
   },
@@ -18,9 +24,6 @@
   },
   "accessingYourCamera": {
     "message": "Accesso alla fotocamera..."
-  },
-  "account": {
-    "message": "Account"
   },
   "accountDetails": {
     "message": "Dettagli Account"
@@ -137,9 +140,6 @@
   "approved": {
     "message": "Approvato"
   },
-  "asset": {
-    "message": "Asset"
-  },
   "assets": {
     "message": "Patrimonio"
   },
@@ -213,9 +213,6 @@
   "buyWithWyreDescription": {
     "message": "Wyre ti consente di usare la carta di credito per depositare ETH direttamente nel tuo account MetaMask."
   },
-  "bytes": {
-    "message": "Bytes"
-  },
   "canToggleInSettings": {
     "message": "Puoi riabilitare questa notifica in Impostazioni -> Avvisi."
   },
@@ -227,9 +224,6 @@
   },
   "cancelled": {
     "message": "Annullata"
-  },
-  "chainId": {
-    "message": "Chain ID"
   },
   "chromeRequiredForHardwareWallets": {
     "message": "Devi usare MetaMask con Google Chrome per connettere il tuo Portafoglio Hardware"
@@ -391,6 +385,9 @@
   },
   "currentLanguage": {
     "message": "Lingua Corrente"
+  },
+  "custom": {
+    "message": "Avanzate"
   },
   "customGas": {
     "message": "Personalizza Gas"
@@ -578,10 +575,6 @@
     "message": "MetaMask ha riscontrato un errore",
     "description": "Title of generic error page"
   },
-  "errorStack": {
-    "message": "Stack:",
-    "description": "Title for error stack, which is displayed for debugging purposes"
-  },
   "estimatedProcessingTimes": {
     "message": "Tempi di Elaborazione Stimati"
   },
@@ -591,9 +584,6 @@
   },
   "ethereumPublicAddress": {
     "message": "Indirizzo pubblico Ethereum "
-  },
-  "etherscan": {
-    "message": "Etherscan"
   },
   "etherscanView": {
     "message": "Vedi account su Etherscan"
@@ -850,6 +840,9 @@
   "learnMore": {
     "message": "Scopri di più"
   },
+  "learnMoreUpperCase": {
+    "message": "Scopri di più"
+  },
   "ledgerAccountRestriction": {
     "message": "E' necessario utilizzare l'ultimo account prima di poterne aggiungere uno nuovo."
   },
@@ -870,9 +863,6 @@
   },
   "loadingTokens": {
     "message": "Caricamento Tokens..."
-  },
-  "localhost": {
-    "message": "Localhost 8545"
   },
   "lock": {
     "message": "Disconnetti"
@@ -981,10 +971,6 @@
   "newAccountDetectedDialogMessage": {
     "message": "Rilevato un nuovo indirizzo! Clicca qui per aggiungerlo alla tua rubrica."
   },
-  "newAccountNumberName": {
-    "message": "Account $1",
-    "description": "Default name of next account to be created on create account screen"
-  },
   "newContact": {
     "message": "Nuovo contatto"
   },
@@ -1052,17 +1038,8 @@
   "ofTextNofM": {
     "message": "di"
   },
-  "off": {
-    "message": "Off"
-  },
   "offlineForMaintenance": {
     "message": "Offline per manutenzione"
-  },
-  "ok": {
-    "message": "Ok"
-  },
-  "on": {
-    "message": "On"
   },
   "onboardingReturnNotice": {
     "message": "\"$1\" chiuderà questa tab e ritornerà a $2",
@@ -1085,9 +1062,6 @@
   },
   "participateInMetaMetricsDescription": {
     "message": "Participa in MetaMetrics per aiutarci a rendere MetaMask migliore"
-  },
-  "password": {
-    "message": "Password"
   },
   "passwordNotLongEnough": {
     "message": "Password non abbastanza lunga"
@@ -1209,9 +1183,6 @@
   "restoreWalletPreferences": {
     "message": "È stato trovato un backup dei tuoi dati da $1. Vuoi ripristinare le preferenze del portafoglio?",
     "description": "$1 is the date at which the data was backed up"
-  },
-  "retryTransaction": {
-    "message": "Retry Transaction"
   },
   "reusedTokenNameWarning": {
     "message": "Un token usa un simbolo già usato da un altro token, ciò può confondere o ingannare."
@@ -1375,9 +1346,6 @@
   },
   "signatureRequest": {
     "message": "Firma Richiesta"
-  },
-  "signatureRequest1": {
-    "message": "Message"
   },
   "signed": {
     "message": "Firmata"
@@ -1639,9 +1607,6 @@
     "message": "$1 $2 disponibili allo scambio",
     "description": "Tells the user how much of a token they have in their balance. $1 is a decimal number amount of tokens, and $2 is a token symbol"
   },
-  "swapZeroSlippage": {
-    "message": "0% Slippage"
-  },
   "swapsAdvancedOptions": {
     "message": "Impostazioni Avanzate"
   },
@@ -1721,9 +1686,6 @@
   "toAddress": {
     "message": "A: $1",
     "description": "$1 is the address to include in the To label. It is typically shortened first using shortenAddress"
-  },
-  "token": {
-    "message": "Token"
   },
   "tokenAlreadyAdded": {
     "message": "Il token è già stato aggiunto."

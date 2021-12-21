@@ -1,4 +1,7 @@
 {
+  "QRHardwareSignRequestCancel": {
+    "message": "નકારો"
+  },
   "about": {
     "message": "વિશે"
   },
@@ -35,6 +38,9 @@
   },
   "create": {
     "message": "બનાવો"
+  },
+  "custom": {
+    "message": "વિગતવાર"
   },
   "delete": {
     "message": "કાઢી નાખો"
